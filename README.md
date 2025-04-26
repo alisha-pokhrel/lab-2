@@ -1,38 +1,39 @@
-Visual Studio <br>
-This labsheet's basic C# programming exercises cover essential coding concepts such as input/output handling, conditional statements, loops, arrays, and functions.
+Visual Studio
+This labsheet provides beginner-level C# programming exercises focused on key concepts like input/output operations, conditional logic, loops, arrays, and functions.
 
 Exercises
-1. Display "Hello World"
-An introductory program that outputs "Hello World!!" to the console.
 
-2. Exchange Two Numbers
-Illustrates how to swap two integer values by using a temporary variable.
+Display "Hello World"
+Write a simple program that prints "Hello World!!" to the console.
 
-3. Identify the Largest Number
-Evaluates three numbers to find the largest one using conditional statements.
+Swap Two Numbers
+Demonstrates how to interchange the values of two integers using a temporary variable.
 
-4. Determine Even or Odd Number
-Takes a number as input and checks if it is even or odd (note: fix required as the provided code gives incorrect output).
+Find the Largest Number
+Uses conditional statements to identify the largest among three numbers.
 
-5. Total of Natural Numbers
-Computes the total of all natural numbers up to a specified input number using a loop.
+Check Even or Odd
+Accepts a number and determines whether it is even or odd (note: correction needed, as the given code currently produces incorrect results).
 
-6. Factorial Calculation
-Calculates the factorial of a number provided by the user using iteration.
+Sum of Natural Numbers
+Calculates the sum of all natural numbers up to a given input using a loop.
 
-7. Sum of Array Values
-Accepts an array of integers and calculates the sum of all its elements.
+Factorial of a Number
+Finds the factorial of an input number through iteration.
 
-8. Determine Leap Year
-Assesses whether a given year qualifies as a leap year according to established criteria.
+Sum of Array Elements
+Takes an array of integers and computes the total sum of its elements.
 
-9. Verify Prime Number
-Tests if a specified number is prime by checking its divisibility.
+Leap Year Check
+Determines if a year is a leap year based on standard leap year rules.
 
-How to Execute
+Prime Number Verification
+Checks whether a given number is prime by evaluating its divisibility.
 
-1) Launch Visual Studio and initiate a new Console Application project.
+How to Run the Programs
 
-2) Input the required code snippet into Program.cs.
+Open Visual Studio and create a new Console Application project.
 
-3) Press Ctrl + F5 to run the program.
+Write the provided code inside Program.cs.
+
+Press Ctrl + F5 to build and run the application.
